@@ -12,4 +12,4 @@ tiktoken>=0.7
 pillow>=10
 
 wikipedia>=1.4
-duckduckgo-search>=6
+duckduckgo-search>=6.0.0
